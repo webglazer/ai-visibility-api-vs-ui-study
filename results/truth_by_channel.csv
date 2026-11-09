@@ -1,0 +1,6 @@
+channel,answers,correct,partly_correct,wrong,no_knowledge,correct_pct
+chatgpt,1790,1763,22,1,4,98.5
+chatgpt_api,358,351,5,2,0,98.0
+gemini,1790,1693,35,5,57,94.6
+gemini_api,358,349,8,0,1,97.5
+google,1790,1763,22,5,0,98.5

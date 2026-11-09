@@ -1,0 +1,4 @@
+data/*.jsonl.gz
+__pycache__/
+*.key
+.study-secrets/
